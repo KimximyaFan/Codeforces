@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class _temp
+public class _2148A
 {
     public static void main (String[] args) throws IOException
     {
